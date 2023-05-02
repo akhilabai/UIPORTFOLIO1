@@ -1,0 +1,64 @@
+h1{
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.up{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.right{
+     margin-left: 500px;
+     
+}
+
+img{
+    margin-right: -50px;
+    margin-top: 20px;
+}
+body{
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+    font-family: arial;
+}
+hr{
+    border: 1px solid blue;
+    width: 900px;
+}
+.sign{
+    margin-left: 600px;
+    margin-top: -30px;
+}
+.box{
+    border: 1px solid gray;
+    width: 300px;
+    margin-bottom: 30px;
+    background-color: gray;
+}
+.box3{
+    border: 1px solid gray;
+    width: 250px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    background-color: white;
+    text-align: center;
+}
+.box4{
+    border: 1px solid gray;
+    width: 250px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    background-color: white;
+    text-align: center;
+}
+.js{
+    text-align: center;
+}
+.box2{
+    border: 1px solid gray;
+    width: 250px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    background-color: white;
+}
